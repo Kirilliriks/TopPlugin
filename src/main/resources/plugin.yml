@@ -1,0 +1,5 @@
+name: TopPlugin
+version: '${version}'
+main: me.kirillirik.top.TopPlugin
+api-version: 1.18
+author: kirillirik
